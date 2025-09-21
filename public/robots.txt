@@ -1,3 +1,3 @@
 User-agent:*
 Disallow:
-Sitemap: https://898f3c37-3dd9-4e1f-b1ea-bcef37edeee4.weweb-preview.io/sitemap.xml
+Sitemap: https://www.veluxia.com.br/sitemap.xml
